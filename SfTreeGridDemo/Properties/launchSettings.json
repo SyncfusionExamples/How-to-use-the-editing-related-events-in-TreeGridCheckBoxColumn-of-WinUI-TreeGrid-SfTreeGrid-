@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SfTreeGridDemo (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SfTreeGridDemo (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
